@@ -28,7 +28,7 @@ Settings are stored in `.minecraft/config/sessiontimer.json`.
 
 | Minecraft | Artifact |
 | --- | --- |
-| 1.21.8+ | `SessionTimer1.0.1-1.21.8+.jar` |
+| 1.21.8+ | `SessionTimer1.0.2-1.21.8+.jar` |
 
 ## Build
 
@@ -40,7 +40,7 @@ Install Java 21, then clone the repository and run:
 
 The root build compiles and tests the mod. It writes the distributable JAR to `build/libs`:
 
-- `SessionTimer1.0.1-1.21.8+.jar` for Minecraft 1.21.8 and newer, including the 1.21.11 keybinding/input API changes
+- `SessionTimer1.0.2-1.21.8+.jar` for Minecraft 1.21.8 and newer, including the 1.21.11 keybinding/input API changes
 
 Install the JAR together with Fabric Loader and the matching Fabric API release.
 
