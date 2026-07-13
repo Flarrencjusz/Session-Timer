@@ -53,3 +53,7 @@ Install the JAR together with Fabric Loader and the matching Fabric API release.
 ## Accuracy note
 
 This mod measures local elapsed connection time. It does not read or modify the server's internal player/entity tick order, so treat it as a convenient comparison tool rather than proof of pickup priority on every server implementation.
+
+## License
+
+Session Timer is licensed under the [GNU General Public License v3.0](LICENSE).
