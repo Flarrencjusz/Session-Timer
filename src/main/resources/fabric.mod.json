@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "sessiontimer",
+  "version": "${version}",
+  "name": "Session Timer",
+  "description": "A configurable session HUD timer for comparing item pickup priority.",
+  "authors": ["Flarek"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "${entrypoint}"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "${minecraft_range}",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

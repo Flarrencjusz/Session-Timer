@@ -1,0 +1,9 @@
+{
+  "key.sessiontimer.open_editor": "Open HUD editor",
+  "key.category.sessiontimer": "Session Timer",
+  "key.category.sessiontimer.controls": "Session Timer",
+  "screen.sessiontimer.title": "Session Timer HUD",
+  "screen.sessiontimer.drag": "Drag the timer to place it on screen",
+  "screen.sessiontimer.done": "Done",
+  "screen.sessiontimer.reset": "Reset"
+}
